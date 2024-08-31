@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/cseazizul.islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cseazizul.islam" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/azizul-islam-606aa0194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="azizul-islam-606aa0194" height="30" width="40" /></a>
+  
+  <a href="https://www.linkedin.com/in/azizul-islam-606aa0194/" target="blank" rel="nofollow"><img src="https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
