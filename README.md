@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Azizul Islam</h1>
-<h3 align="center">A passionate fullstack Web Application Developer from Bangladesh</h3>
+<h3 align="center">As a software engineer with over 4+ years of experience, I specialize in designing and implementing scalable solutions. I am proficient in PHP(Laravel), Vue.js, React JS, Next.js, MySQL, Docker, Cloud, etc. I have contributed to successful projects like Vendor Management, Accommodation Management, University Management, School Management, Real Estate, E-commerce, etc. My collaborative approach and commitment to updating industry trends make me a valuable asset. Dedicated to excellence, I am eager to apply my skills and contribute to innovative software development initiatives.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="azizul-islam" /> </p>
 
-- 🔭 I’m currently working on [MoCHTA](http://training.mochta.gov.bd)
+- 🔭 I’m currently working on AkijBashir internal portal.
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **Laravel, PHP, MySQL, HTML, CSS, JavaScript, Vue Js, Nuxt Js**
+- 💬 Ask me about **Laravel, PHP, MySQL, HTML, CSS, JavaScript, Vue Js, Nuxt Js, React Js, Next Js**
 
 - 📫 How to reach me **cseazizul@gmail.com**
 
